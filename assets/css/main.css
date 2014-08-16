@@ -5,7 +5,7 @@ body {
     padding-bottom: 40px;
     color: #999;
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 16px;
+    font-size: 19px;
 }
 
 /* Custom container */
@@ -40,10 +40,6 @@ ul {
     font-size: 82px;
     line-height: 1;
 }
-.jumbotron .btn {
-    font-size: 21px;
-    padding: 14px 24px;
-}
 
 #show-list{
     color: #999;
@@ -51,7 +47,7 @@ ul {
 
 #show-list li {
     padding: 2px;
-    font-size: 19px;
+    font-size: 22px;
 }
 
 
@@ -68,16 +64,26 @@ ul {
     color: #F535AA;
 }
 
+.marketing h4 {
+    font-size: 25px;
+}
+
 .contacts {
     list-style-type: none;
 }
 
+.contacts li {
+    padding: 3px;
+}
+
 .hairy-sands-img {
+    padding-top: 5px;
     width: 431px;
     height: 431px;
 }
 
 .george-sand-img {
+    padding-top: 5px;
     width: 431px;
     height: 431px;
 }
