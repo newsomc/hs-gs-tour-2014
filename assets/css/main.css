@@ -25,8 +25,17 @@ ul {
     list-style-type: none;
 }
 
+p {
+ line-height: 135%;
+}
+
 .muted {
     font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.album-title {
+    font-size: 22px;
+    padding-right: 10px;
 }
 
 /* Main marketing message and sign up button */
@@ -65,6 +74,7 @@ ul {
 }
 
 .marketing h4 {
+    color: #F535AA;
     font-size: 25px;
 }
 
